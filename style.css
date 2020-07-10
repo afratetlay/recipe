@@ -179,7 +179,28 @@ nav ul li a {
       display: none;
 }
 
-.books {
-    padding-top: 8%;
-    padding-left: 10%;
+#books {
+
+    position:relative;
+    top: 100px;
+    right: 100px;
+    left: 100px;
+    
+}
+
+.top {
+    position: relative;
+    top: 200px;
+    left:400px;
+
+}
+
+.intro {
+    display: flex;
+}
+
+.para {
+    position: relative;
+    top: 250px;
+    left:180px;
 }
